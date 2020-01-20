@@ -21,6 +21,6 @@ Copyright 2013 Jérôme Van Der Linden
 Copyright (C) 2012 readyState Software Ltd
 
 ### Other
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt),
+#### [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
 Copyright (C) 2011 The Android Open Source Project  
 Copyright 2010 Google Inc
